@@ -10,7 +10,7 @@ import java.util.Stack;
 
 import static org.junit.Assert.*;
 
-public class PA10Tester {
+public class PA10_tester {
 
     @org.junit.Test
     public void mergeLists() {
